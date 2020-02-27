@@ -1,0 +1,17 @@
+.a{color: orange;}
+h5{color: white;}
+.text{
+    text-align: center;
+    border: 1px gray;
+}
+.azert{
+    display: flex;
+    margin: auto;
+    width: 15%;
+  }
+  .botom{
+    border-color:1px orangered;
+    padding: 172px;
+    display: flex;
+  }
+ 

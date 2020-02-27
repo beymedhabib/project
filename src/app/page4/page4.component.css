@@ -1,0 +1,13 @@
+.container{
+    background-color: rgb(63, 62, 62);   
+}
+.serv{
+    justify-content: center;
+    text-align: center;
+    padding: 55px;
+  }
+.col-sm-8{
+    color: white;
+    text-align: center;
+    margin-left: 17%;
+}
